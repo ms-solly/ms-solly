@@ -30,18 +30,20 @@ right now i’m learning **art** and **game design**, trying to make what i draw
 
 ### 🧷 badges
 
-hacktoberfest 2024 — got all four, mostly out of curiosity.
+hacktoberfest 2024, got all four, mostly out of curiosity.
 
-[![Badge 1](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ksxnnw03760cl9ii0tmhpm)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ksxnnw03760cl9ii0tmhpm)
-[![Badge 2](https://www.holopin.io/hacktoberfest2024/userbadge/cm2yq6ka910440clc0zcbbcqt)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2yq6ka910440clc0zcbbcqt)
-[![Badge 3](https://www.holopin.io/hacktoberfest2024/userbadge/cm2yq6kcp10510clc2t9qwsgu)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2yq6kcp10510clc2t9qwsgu)
-[![Badge 4](https://www.holopin.io/hacktoberfest2024/userbadge/cm2yq6k7d10380clcqrwcqmx7)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2yq6k7d10380clcqrwcqmx7)
+<p align="left">
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tumbler-0-0-0.webp" height="80" />
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tumbler-hoodie-0-0.webp" height="80" />
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tumbler-hoodie-witch-0.webp" height="80" />
+  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tumbler-hoodie-witch-eclipse.webp" height="80" />
+</p>
 
 ---
 
 ### 💭 quote
 
-> “life is steady when you’re busy.”  
+> “life is steady, when you’re busy.”  
 > sounds like something i’d say when i forget what i was doing.
 
 ---
