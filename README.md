@@ -11,16 +11,16 @@ right now i’m learning **art** and **game design**, trying to make what i draw
 
 ---
 
-### 🧩 things i tinker with
+### 🦋 things i tinker with
 
 - `c`, `c++`, `python`, `js/ts` (ts just makes more sense, doesn’t it?)  
 - `raylib`, sometimes `opengl`, sometimes i just stare at vulkan docs  
 - `neovim` + terminal setup (because it’s fun to suffer) & my enemy less friend linux OS(i use arch btw)
-- and yeah, **canva** — for when i want to make something without compiling it  
+- and yeah, **canva** for when i want to make something without compiling it 
 
 ---
 
-### 🎮 things i enjoy
+### 👾 things i enjoy
 
 - making pixel art  
 - sketching characters and short comics i actually complete (yep, sometimes it happens)  
@@ -50,9 +50,8 @@ hacktoberfest 2024, got all four, mostly out of curiosity.
 
 ### 🐾 random fact
 
-i once tried to debug a drawing.  
-it didn’t help, but it made me feel like i was doing something.
-food works as stress booster for me
+food sometimes works as stress booster
+
 ---
 
 ### 📊 github stats
