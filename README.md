@@ -64,6 +64,22 @@ food works as stress booster for me
 
 ---
 
+### 🌐 find me elsewhere
+
+<a href="https://x.com/aditiJ0?t=caGdwIIcFHnyRNsF_0Ix2A&s=35" target="_blank">
+  <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x" />
+</a>
+<a href="https://www.instagram.com/ms_sollly?igsh=cW80cWdpY3QydGUw" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aditi-j-57b64526a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+or reach out via email: aditij0979@gmail.com
+
+
+---------
+
 <p align="center">
 <i>sometimes i draw. sometimes i code. sometimes both crash .</i>
 </p>
