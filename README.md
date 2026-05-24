@@ -1,12 +1,15 @@
-<h1 align="center">ms solly</h1>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+  <td valign="top" style="padding: 10px; border: none;">
+<h1>ms solly</h1>
+   <p width="30%">c systems · small interactive experiments</p>
+  </td>
+  <td width="70%" align="center" valign="top" style="padding: 10px; border: none;">
+<img src="https://github.com/user-attachments/assets/797f602c-5376-4d4b-903c-430ddf04d045" width="100%"/>
+   </td>
+  </tr>
+</table>
 
-<p align="center">
-c systems · linux · small interactive experiments
-</p>
-<hr/>
-
-
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/797f602c-5376-4d4b-903c-430ddf04d045" />
 
 ```bash 
 ## about
@@ -15,6 +18,8 @@ c systems · linux · small interactive experiments
 > cpp      when necessary
 > linux     arch
 > sketch / write , when not coding
+
+--
 
 ## stack
 > c        systems + low level work
@@ -27,6 +32,8 @@ c systems · linux · small interactive experiments
 > godot
 > opengl   learning
 
+--
+
 ## focus
 > small systems
 > clean ideas
@@ -37,6 +44,7 @@ c systems · linux · small interactive experiments
 > rebuilding consistency through smaller projects
 > exploring design entrance paths alongside technical work
 
+--
 
 ## note
 > sometimes things work
