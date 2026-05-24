@@ -5,7 +5,7 @@
         ms solly
       </h1>
       <p style="margin: 4px 0 0 0; line-height: 1.1;">
-        c systems · small interactive experiments
+        c systems · small interactive experiments · open source 
       </p>
     </td>
     <td width="90%" align="center" valign="middle" style=" border: none;">
